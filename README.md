@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on the [OSSU Curriculum](https://github.com/ossu/computer-science)
 - 🤖 Did my internship at National Chung Cheng University (student intern in learning applications of Computer Vision: 3D skeleton pose estimation)
 - 🌱 I’m currently learning [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design)
-- 📚 I'm also self-teaching myself Japanese 私も日本語を勉強する amd currently studying JLPT N4 (aiming to learn other written & spoken languages as well) 
+- 📚 I'm also self-teaching myself Japanese 私も日本語を勉強する amd currently studying JLPT N4 (aiming to learn other written & spoken languages as well *aside programming languages*) 
 - 👯 I’m looking to collaborate on Machine Learning / Software Engineering / Mobile App Development
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hezekiah-john-rizan-58511b1b7/)
 
