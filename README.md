@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Hezekiah Rizan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things;Currently%20learning%20Object-Oriented%20Design&center=true&width=500&height=50"></a>
 </p>
 
 - 🔭 I’m currently working on the [OSSU Curriculum](https://github.com/ossu/computer-science)
