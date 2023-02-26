@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on the [OSSU Curriculum](https://github.com/ossu/computer-science). Check out my [Trello Board](https://trello.com/b/njogzkSE/ossu-cs)!
-- 🤖 Did my internship (virtual) at National Chung Cheng University, Taiwan (student intern in learning applications of Computer Vision: 3D skeleton pose estimation) & currently doing my 2nd cycle at Chevron Holdings, Inc. as a Software Engineer Intern
+- 🤖 Did my internship (virtual) at National Chung Cheng University, Taiwan (student intern in learning applications of Computer Vision: 3D skeleton pose estimation) & did my 2nd cycle at Chevron Holdings, Inc. as a Software Engineer Intern
 - 🌱 I’m currently learning [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/course/)
 - 📚 I'm also self-teaching myself Japanese 私も日本語を勉強する and currently studying JLPT N4 (aiming to learn other written & spoken languages as well *aside programming languages*) 
 - 👯 I’m looking to collaborate on Software Development / Mobile App Development / Machine Learning Applications
