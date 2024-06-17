@@ -5,8 +5,8 @@
 
 - 🧑‍💻 Currently a Sofware Engineer in Chevron Holdings, Inc. (PH)
 - 🔭 I’m currently working on the [OSSU Curriculum](https://github.com/ossu/computer-science). Check out my [Trello Board](https://trello.com/b/8hant1fj/ossu-cs)!<!--- 🤖 Did my internship (virtual) at National Chung Cheng University, Taiwan (student intern in learning applications of Computer Vision: 3D skeleton pose estimation) & did my 2nd cycle at Chevron Holdings, Inc. as a Software Engineer Intern -->
-- 🌱 I’m currently learning [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
-- 📚 I'm also self-teaching myself Japanese 私も日本語を勉強する and currently studying JLPT N4 (aiming to learn other written & spoken languages as well *aside programming languages*) 
+- 🌱 I’m currently learning [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about); [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/); [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)
+- 📚 I'm also self-teaching myself Japanese 私も日本語を勉強する and currently studying JLPT N3 (aiming to learn other written & spoken languages as well *aside programming languages*) 
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hezekiah-john-rizan-58511b1b7/)
 
 ## 📊 Github Stats
